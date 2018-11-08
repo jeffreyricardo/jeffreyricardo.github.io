@@ -130,4 +130,3 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
->>>>>>> 1eb5caae83665ba157799d695d134cad02cacd53
