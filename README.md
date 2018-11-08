@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# jeffreyricardo.github.io
-GitHub Pages Test
-=======
 # Pixyll
 
 [pixyll.com](http://www.pixyll.com)
