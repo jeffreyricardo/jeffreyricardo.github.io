@@ -1,10 +1,10 @@
 # Site settings
 title:       Jeffrey Ricardo
 email:       jeffreyricardo@gmail.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+author:      Jeff
+description: "Jeff's Musings"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://jeffreyricardo.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
